@@ -1,0 +1,5 @@
+﻿  SongLinkedList.cpp
+C:\Users\angel\Desktop\DSTR assignment\Assignment\Assignment\SongLinkedList.cpp(15,9): warning C4101: 'duration': unreferenced local variable
+C:\Users\angel\Desktop\DSTR assignment\Assignment\Assignment\SongLinkedList.cpp(16,7): warning C4101: 'min': unreferenced local variable
+C:\Users\angel\Desktop\DSTR assignment\Assignment\Assignment\SongLinkedList.cpp(15,19): warning C4101: 'sec': unreferenced local variable
+  Assignment.vcxproj -> C:\Users\angel\Desktop\DSTR assignment\Assignment\Debug\Assignment.exe
